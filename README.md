@@ -1,7 +1,7 @@
-# Wearable-Project by Nana-Shireen Nduka, Neha Ippili and Aqdas Muhammad Shaban
+# StressLess by Nana-Shireen Nduka, Neha Ippili and Aqdas Muhammad Shaban
 
 
-Our project's goal is a wearable wristband that monitors the wearer's stress levels. This wristband measures the wearer's heart rate (EKG), sweat levels, and skin temperature and then uses these results to determine stress levels. This data will also be accessible within our app. It will also notify users when their stress levels are too high using haptics and a visual alarm, as well as show them breathing exercises to assist lower stress. Our device will be aimed towards young people, particularly those pursuing higher education.​
+Our project's goal is a wearable wristband that monitors the wearer's stress levels. This wristband measures the wearer's skin temperature and then uses these results to determine stress levels. This data will also be accessible within our app. It will also notify users when their stress levels are too high using via the flashing LEDs embedded within the wristband, as well as show them breathing exercises to assist lower stress through the lights. Our device will be aimed towards young people, particularly those pursuing higher education.​ We felt this was appropriate as according to statistics, young people are the most stressed age group and we had personal experience with this too.
 
 # Running Instructions
 
@@ -79,7 +79,7 @@ Or click **Code > Download ZIP**, then extract it.
 - 13x wires
 - 14x alligator clips
 - 7x 1.00 kΩ resistors
-- 1x Temperature and Humidity sensor
+- 1x DHT11 Temperature and Humidity sensor
 
 ## Prototype images
 
@@ -89,6 +89,6 @@ Or click **Code > Download ZIP**, then extract it.
 
 ## Demo Video
 
-- Video: [Click Me](https://youtube.com/shorts/ir2oypSS8c8)
+- Video: [Click Me](https://youtube.com/shorts/ir2oypSS8c8) & https://youtu.be/MH7vfL-MSPk 
 
 README.md written by Aqdas Muhammad Shaban
